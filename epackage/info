@@ -1,0 +1,19 @@
+Package: palette
+Section: faces, frames
+License: GPL-2+
+Depends: emacs (>= 22), lib-hexrgb
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Drew Adams <drew.adams@oracle.com>
+Upstream-Bugs:
+Vcs-Type: http
+Vcs-Url: http://www.emacswiki.org/cgi-bin/wiki/palette.el
+Vcs-Browser:
+Homepage: http://www.emacswiki.org/cgi-bin/wiki/palette.el
+Wiki: http://www.emacswiki.org/emacs/ColorPalette
+Commentary: palette.el
+Description: color palette for to edit using RGB, HSV and color names (X only)
+ This software can *only* be used in Windowed Emacs.
+ Use command M-x palette  to display a color palette.
