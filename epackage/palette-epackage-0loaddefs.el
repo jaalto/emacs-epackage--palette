@@ -460,4 +460,4 @@ If a color palette is already displayed, then just update it.
 \(fn &optional OLDP COLOR)" t nil)
 
 ;;;***
-(provide 'palette-epkg-0loaddefs)
+(provide 'palette-epackage-0loaddefs)

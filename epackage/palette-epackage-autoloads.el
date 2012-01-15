@@ -54,4 +54,4 @@
 (autoload 'palette-complement-or-alternative    "palette" "" nil)
 (autoload 'palette-color-message                "palette" "" nil)
 (autoload 'palette-barf-if-outside-palette      "palette" "" nil)
-(provide 'palette-epkg-autoloads)
+(provide 'palette-epackage-autoloads)

@@ -1,2 +1,2 @@
-(require 'palette-epkg-0loaddefs)
-(provide 'palette-epkg-install)
+(require 'palette-epackage-0loaddefs)
+(provide 'palette-epackage-install)

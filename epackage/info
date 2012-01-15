@@ -15,6 +15,7 @@ Homepage: http://www.emacswiki.org/cgi-bin/wiki/palette.el
 Wiki: http://www.emacswiki.org/emacs/ColorPalette
 Commentary: palette.el
 X-Development:
+  http://www.emacswiki.org/emacs/DrewsElispLibraries
   2012-01-05 Upstream email confirmed
 Description: color palette for to edit using RGB, HSV and color names (X only)
  This software can *only* be used in Windowed Emacs.
